@@ -41,6 +41,7 @@ e posteriormente ganhou livros, filmes e vários outros jogos.
 
 ### Fontes dos GIFs
 
-- Autor: colocar o autor
-- Site: colocar o site
-- Link original: colocar o link da página do GIF
+- Autor:Scott Caltown
+- Site: FNAF.com.br
+- Link original: fnaf.com.br
+  
